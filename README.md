@@ -1,10 +1,26 @@
 # My Tableau and Web3 Visualization Projects
 
-Below is a collection of Web3 Visualization projects I've compiled and uploaded to GitHub. Please feel free to have a look!
+Below is a collection of Visualization projects I've compiled and uploaded to GitHub. Please feel free to have a look!
+
+* View My Tableau Public Profile & Dashboards [Here](https://public.tableau.com/app/profile/zavon.paschall/vizzes)
+* View My Flipside Crypto Profile & Dashboards [Here](https://flipsidecrypto.xyz/HitmonleeCrypto/dashboards)
+
 
 ## Tableau 
 
-Coming Soon...
+* **Electric Vehicle Market Dashboard – 2010 and beyond:** A comprehensive Tableau dashboard that tracks electric vehicle adoption trends, market share, and the impact of CAFV incentives across various regions and manufacturers from 2010 onward. [Project GitHub Link](https://github.com/ZavonPaschall/EV-Market-Tableau-Data-Analysis) | [Tableau Visualization Link](https://public.tableau.com/app/profile/zavon.paschall/viz/ElectricVehicleMarketDataAnalysis/Dashboard1)
+
+* **E-Commerce Sales Dashboard – YTD Sales Analysis:** An interactive Tableau dashboard that analyzes YTD sales, profits, order quantities, and market share by product category and region, providing insights into customer acquisition and sales trends. [Project GitHub Link](https://github.com/ZavonPaschall/ecommerce-sales-dashboard-tableau) | [Tableau Visualization Link](https://public.tableau.com/app/profile/zavon.paschall/viz/EcommerceSalesDashboardYTDSalesAnalysis_17256687205450/Dashboard1)
+
+
+
+
+
+
+
+
+
+
 
 ## Flipside Crypto (Web3 Visualizations)
 
